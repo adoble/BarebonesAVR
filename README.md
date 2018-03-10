@@ -6,6 +6,8 @@ A basic ATMega328P circuit that can be programmed with:
 
 ## Circuit
 
+The circuit is for DIL package of the ATMega328.
+
 ![Circuit](/img/BarebonesAVR_Schematic.PNG)
 
 The original KiCAD files are stored under [kicad](/kicad).
